@@ -4,7 +4,7 @@
 
 ## 国内加速：
 
-- [央视台+卫视台直播源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
+- [央视台+卫视台直播源(适配DIYP)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/jichangee/IPTV/main/home.m3u8)
 
 - [央视台+卫视台直播源(含备用源)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/sources/home_sources.m3u8)
 
